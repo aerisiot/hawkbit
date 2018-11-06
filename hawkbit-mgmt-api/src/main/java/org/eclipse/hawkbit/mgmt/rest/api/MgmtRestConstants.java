@@ -159,7 +159,7 @@ public final class MgmtRestConstants {
     /**
      * The maximum limit of entities returned by rest resources.
      */
-    public static final int REQUEST_PARAMETER_PAGING_MAX_LIMIT = 500;
+    public static final int REQUEST_PARAMETER_PAGING_MAX_LIMIT = 1000000;
 
     /**
      * Paging http parameter for the offset for a paged request.
